@@ -1,0 +1,4446 @@
+[
+  {
+    "tag": "h4",
+    "innerHtml": "Preliminary Note"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This is the last comedy written by Molière. He was very ill, nearly dying, at the time he wrote it. It was first acted at the Palais Royal Theatre, on February 10, 1673."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Molière acted the part of Argan."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Persons Represented."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Argan, <em>an imaginary invalid</em>.  \nBéline, <em>second wife to</em> Argan.<br>Angélique, <em>daughter to</em> Argan, <em>in love with</em> Cléante.<br>Louison, Argan's <em>young daughter, sister to</em> Angélique.<br>Béralde, <em>brother to</em> Argan.<br>Cléante, <em>lover to</em> Angélique.<br>Mr. Diafoirus, <em>a physician</em>.  \nThomas Diafoirus, <em>his son, in love with</em> Angélique.<br>Mr. Purgon, <em>physician to</em> Argan.<br>Mr. Fleurant, <em>an apothecary</em>.  \nMr. de Bonnefoi, <em>a notary</em>.  \nToinette, <em>maid-servant to</em> Argan."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Act I."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene I."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ARGAN \n(<em>sitting at a table, adding up his apothecary's bill with counters</em>).</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Three and two make five, and five make ten, and ten make twenty. \"Item, on the 24th, a small, insinuative clyster, preparative and gentle, to soften, moisten, and refresh the bowels of Mr. Argan.\" What I like about Mr. Fleurant, my apothecary, is that his bills are always civil. \"The bowels of Mr. Argan.\" All the same, Mr. Fleurant, it is not enough to be civil, you must also be reasonable, and not plunder sick people. Thirty sous for a clyster! I have already told you, with all due respect to you, that elsewhere you have only charged me twenty sous; and twenty sous, in the language of apothecaries, means only ten sous. Here they are, these ten sous. \"Item, on the said day, a good detergent clyster, compounded of double catholicon rhubarb, honey of roses, and other ingredients, according to the prescription, to scour, work, and clear out the bowels of Mr. Argan, thirty sons.\" With your leave, ten sous. \"Item, on the said day, in the evening, a julep, hepatic, soporiferous, and somniferous, intended to promote the sleep of Mr. Argan, thirty-five sous.\" I do not complain of that, for it made me sleep very well. Ten, fifteen, sixteen, and seventeen sous six deniers. \"Item, on the 25th, a good purgative and corroborative mixture, composed of fresh cassia with Levantine senna and other ingredients, according to the prescription of Mr. Purgon, to expel Mr. Argan's bile, four francs.\" You are joking, Mr. Fleurant; you must learn to be reasonable with patients; Mr. Purgon never ordered you to put four francs. Tut! put three francs, if you please. Twenty; thirty sous.Nobody. It's no use, I am always left alone; there's no way of keeping them here. (<em>He rings a hand-bell.</em> They don't hear, and my bell doesn't make enough noise. (<em>He rings again.</em>) No one. (<em>He rings again.</em>) Toinette! (<em>He rings again.</em>) It's just as if I didn't ring at all. You hussy! you jade! (<em>He rings again.</em>) Confound it all! (<em>He rings and shouts.</em>) Deuce take you, you wretch!) )"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Ii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ARGAN, TOINETTE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Coming, coming."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Ah! you jade, you wretch!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. (<em>pretending to have knocked her head</em>). Bother your impatience! You hurry me so much that I have knocked my head against the window-shutter."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. (<em>angry</em>). You vixen!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. (<em>interrupting</em> Argan). Oh!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. There is …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Oh!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. For the last hour I …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Oh!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. You have left me …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Oh!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Be silent! you baggage, and let me scold you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Well! that's too bad after what I have done to myself."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. You make me bawl till my throat is sore, you jade!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. And you, you made me break my head open; one is just as bad as the other; so, with your leave, we are quits."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. What! you hussy…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. If you go on scolding me, I shall cry."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. To leave me, you …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. (<em>again interrupting</em> Argan. Oh! )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. You would …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. (<em>still interrupting him</em>). Oh!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. What! shall I have also to give up the pleasure of scolding her?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Well, scold as much as you please; do as you like."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. You prevent me, you hussy, by interrupting me every moment."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. If you have the pleasure of scolding, I surely can have that of crying. Let every one have his fancy; 'tis but right. Oh! oh!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. I must give it up, I suppose. Take this away, take this away, you jade. Be careful to have some broth ready, for the other that I am to take soon."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. This Mr. Fleurant and Mr. Purgon amuse themselves finely with your body. They have a rare milch-cow in you, I must say; and I should like them to tell me what disease it is you have for them to physic you so."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Hold your tongue, simpleton; it is not for you to control the decrees of the faculty. Ask my daughter Angélique to come to me. I have something to tell her."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Here she is, coming of her own accord; she must have guessed your thoughts."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Iii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ARGAN, ANGÉLIQUE, TOINETTE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. You come just in time; I want to speak to you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. I am quite ready to hear you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Wait a moment. (<em>To</em> Toinette Give me my walking-stick; I'll come back directly. )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Go, Sir, go quickly; Mr. Fleurant gives us plenty to do."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Iv."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ANGÉLIQUE, TOINETTE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Toinette!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Well! what?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Look at me a little."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Well, I am looking at you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Toinette!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Well! what, Toinette?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Don't you guess what I want to speak about?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Oh! yes, I have some slight idea that you want to speak of our young lover, for it is of him we have been speaking for the last six days, and you are not well unless you mention him at every turn."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Since you know what it is I want, why are you not the first to speak to me of him? and why do you not spare me the trouble of being the one to start the conversation?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. You don't give me time, and you are so eager that it is difficult to be beforehand with you on the subject."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. I acknowledge that I am never weary of speaking of him, and that my heart takes eager advantage of every moment I have to open my heart to you. But tell me, Toinette, do you blame the feelings I have towards him?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. I am far from doing so."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Am I wrong in giving way to these sweet impressions?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. I don't say that you are."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. And would you have me insensible to the tender protestations of ardent love which he shows me?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Heaven forbid!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Tell me, do you not see, as I do, Something providential, some act of destiny in the unexpected adventure from which our acquaintance originated?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Yes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. That it is impossible to act more generously?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Agreed."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. And that he did all this with the greatest possible grace?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Oh! yes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Do you not think, Toinette, that he is very handsome?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Certainly."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. That he has the best manners in the world?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. No doubt about it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. That there is always something noble in what he says and what he does?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Most certainly."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. That there never was anything more tender than all he says to me?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. True."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. And that there can be nothing more painful than the restraint under which I am kept? for it prevents all sweet intercourse, and puts an end to that mutual love with which Heaven has inspired us."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. You are right."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. But, dear Toinette, tell me, do you think that he loves me as much as he says he does?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Hum! That's a thing hardly to be trusted at any time. A show of love is sadly like the real thing, and I have met with very good actors in that line."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Ah! Toinette, what are you saying there? Alas! judging by the manner in which he speaks, is it possible that he is not telling the truth?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. At any rate, you will soon be satisfied on this point, and the resolution which he says he has taken of asking you in marriage, is a sure and ready way of showing you if what he says is true or not. That is the all-sufficient proof."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Ah! Toinette, if he deceives me, I shall never in all my life believe in any man."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Here is your father coming back."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene V."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ARGAN, ANGÉLIQUE, TOINETTE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. I say, Angélique, I have a piece of news for yon which, perhaps, you did not expect. You have been asked of me in marriage. Halloa! how is that? You are smiling. It is pleasant, is it not, that word marriage? there is nothing so funny to young girls. Ah! nature! nature! So, from what I see, daughter, there is no need of my asking you if you are willing to marry."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. I ought to obey you in everything, father."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. I am very glad to possess such an obedient daughter; the thing is settled then, and I have promised you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. It is my duty, father, blindly to follow all you determine upon for me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. My wife, your mother-in-law, wanted me to make a nun of you and of your little sister Louison also. She has always been bent upon that."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. (<em>aside</em>). The excellent creature has her reasons."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. She would not consent to this marriage; but I carried the day, and my word is given."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. (<em>to</em> Argan). Really, I am pleased with you for that, and it is the wisest thing you ever did in your life."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. I have not seen the person in question; but I am told that I shall be satisfied with him, and that you too will be satisfied."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Most certainly, father."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. How! have you seen him then?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Since your consent to our marriage authorises me to open my heart to you, I will not hide from you that chance made us acquainted six days ago, and that the request which has been made to you is the result of the sympathy we felt for one another at first sight."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. They did not tell me that; but I am glad of it; it is much better that things should be so. They say that he is a tall, well-made young fellow."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Yes, father."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Of a fine build."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Yes, indeed."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Pleasant."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Certainly."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. A good face."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Very good."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Steady and of good family."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Quite."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. With very good manners."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. The best possible."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. And speaks both Latin and Greek."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Ah! that I don't know anything about."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. And that he will in three days be made a doctor."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. He, father?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Yes; did he not tell you?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. No, indeed! who told you?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Mr. Purgon."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Does Mr. Purgon know him?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. What a question! Of course he knows him, since he is his nephew."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Cléante is the nephew of Mr. Purgon?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. What Cléante? We are speaking about him who has asked you in marriage."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Yes, of course."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Well, he is the nephew of Mr. Purgon, and the son of his brother-in-law, Mr. Diafoirus; and this son is called Thomas Diafoirus, and not Cléante. Mr. Fleurant and I decided upon this match this morning, and to-morrow this future son-in-law will be brought to me by his father.… What is the matter, you look all scared?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. It is because, father, I see that you have been speaking of one person, and I of another."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. What! Sir, you have formed such a queer project as that, and, with all the wealth you possess, you want to marry your daughter to a doctor?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. What business is it of yours, you impudent jade?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Gently, gently. You always begin by abuse. Can we not reason together without getting into a rage? Come, let us speak quietly. What reason have you, if you please, for such a marriage?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. My reason is, that seeing myself infirm and sick, I wish to have a son-in-law and relatives who are doctors, in order to secure their kind assistance in my illness, to have in my family the fountain-head of those remedies which are necessary to me, and to be within reach of consultations and prescriptions."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Very well; at least that is giving a reason, and there is a certain pleasure in answering one another calmly. But now, Sir, on your conscience, do you really and truly believe that you are ill?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Believe that I am ill, you jade? Believe that I am ill, you impudent hussy?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Very well, then, Sir, you are ill; don't let us quarrel about that. Yes, you are very ill, I agree with you upon that point, more ill even than you think. Now, is that settled? But your daughter is to marry a husband for herself, and as she is not ill, what is the use of giving her a doctor?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. It is for my sake that I give her this doctor, and a good daughter ought to be delighted to marry for the sake of her father's health."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. In good troth, Sir, shall I, as a friend, give you a piece of advice?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. What is this advice?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Not to think of this match."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. And your reason?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. The reason is that your daughter will never consent to it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. My daughter will not consent to it?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. No."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. My daughter?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Your daughter. She will tell you that she has no need of Mr. Diafoirus, nor of his son, Mr. Thomas Diafoirus, nor all the Diafoiruses in the world."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. But I have need of them. Besides, the match is more advantageous than you think. Mr. Diafoirus has only this son for his heir; and, moreover, Mr. Purgon, who has neither wife nor child, gives all he has in favour of this marriage; and Mr. Purgon is a man worth eight thousand francs a year."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. What a lot of people he must have killed to have become so rich!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Eight thousand francs is something, without counting the property of the father."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. That is very well, Sir, but, all the same, I advise you, between ourselves, to choose another husband for her; she is not of a make to become a Mrs. Diafoirus."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. But I will have it so."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Fie! nonsense! Don't speak like that."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Don't speak like that? Why not?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Dear me, no, don't."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. And why should I not speak like that?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. People will say that you don't know what you are talking about."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. People will say all they like, but I tell you that I will have her make my promise good."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. I feel sure that she won't."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Then I will force her to do it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. She will not do it, I tell you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. She will, or I will shut her up in a convent."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. You?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. I."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Good!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. How good?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. You will not shut her up in a convent."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. I shall not shut her up in a convent?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. No."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. No?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. No."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Well, this is cool! I shall not put my daughter in a convent if I like!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. No, I tell you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. And who will hinder me?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. You yourself."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Myself?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. You will never have the heart to do it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. I shall."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. You are joking."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. I am not joking."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Fatherly love will hinder you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. It will not hinder me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. A little tear or two, her arms thrown round your neck, Or \"My darling little papa,\" said very tenderly, will be enough to touch your heart."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. All that will be useless."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Oh yes!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. I tell you that nothing will move me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Rubbish!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. You have no business to say \"Rubbish.\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. I know you well enough; you are naturally kind-hearted."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. (<em>angrily</em>). I am not kind-hearted, and I am ill-natured when I like."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Gently, Sir, you forget that you are ill."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. I command her to prepare herself to take the husband I have fixed upon."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. And I decidedly forbid her to do anything of the kind."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. What have we come to? And what boldness is this for a scrub of a servant to speak in such a way before her master?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. When a master does not consider what he is doing, a sensible servant should set him right."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. (<em>running after</em> Toinette). Ah, impudent girl, I will kill you!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. (<em>avoiding</em> Argan, <em>and putting the chair between her and him</em>). It is my duty to oppose what would be a dishonour to you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. (<em>running after</em> Toinette <em>with his cane in his hand</em>). Come here, come here, let me teach you how to speak."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. (<em>running to the opposite side of the chair</em>). I interest myself in your affairs as I ought to do, and I don't wish to see you commit any folly."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. (<em>as before</em>). Jade!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. (<em>as before</em>). No, I will never consent to this marriage."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. (<em>as before</em>). Worthless hussy!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. (<em>as before</em>). I won't have her marry your Thomas Diafoirus."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. (<em>as before</em>). Vixen!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. (<em>as before</em>). She will obey me sooner than you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. (<em>stopping</em>). Angélique, won't you stop that jade for me?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Ah! father, don't make yourself ill."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. (<em>to</em> Angélique). If you don't stop her, I will refuse you my blessing."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. (<em>going away</em>). And I will disinherit her if she obeys you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. (<em>throwing himself into his chair</em>). Ah! I am done for. It is enough to kill me!"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Vi."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——BÉLINE, ARGAN.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Ah! come near, my wife."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. What ails you, my poor, dear husband?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Come to my help."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. What is the matter, my little darling child?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. My love."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. My love."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. They have just put me in a rage."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Alas! my poor little husband! How was that, my own dear pet?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. That jade of yours, Toinette, has grown more insolent than ever."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Don't excite yourself."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. She has put me in a rage, my dove."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Gently, my child."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. She has been thwarting me for the last hour about everything I want to do."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. There, there; never mind."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. And has had the impudence to say that I am not ill."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. She is an impertinent hussy."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. You know, my soul, what the truth is?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Yes, my darling, she is wrong."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. My own dear, that jade will be the death of me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Now, don't, don't."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. She is the cause of all my bile."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Don't be so angry."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. And I have asked you ever so many times to send her away."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Alas! my child, there is no servant without defects. We are obliged to put up at times with their bad qualities on account of their good ones. The girl is skilful, careful, diligent, and, above all, honest; and you know that in our days we must be very careful what people we take into our house. I say, Toinette."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Vii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ARGAN, BÉLINE, TOINETTE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Madam."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. How is this? Why do you put my husband in a passion?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. (<em>in a soft tone</em>). I, Madam? Alas! I don't know what you mean, and my only aim is to please master in everything."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Ah! the deceitful girl!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. He said to us that he wished to marry his daughter to the son of Mr. Diafoirus. I told him that I thought the match very advantageous for her, but that I believed he would do better to put her in a convent."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. There is not much harm in that, and I think that she is right."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Ah! deary, do you believe her? She is a vile girl, and has said a hundred insolent things to me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Well, I believe you, my dear. Come, compose yourself; and you, Toinette, listen to me. If ever you make my husband angry again, I will send you away. Come, give me his fur cloak and some pillows, that I may make him comfortable in his arm-chair. You are all anyhow. Pull your night-cap right down over your ears; there is nothing that gives people such bad colds as letting in the air through the ears."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Ah, deary! how much obliged I am to you for all the care you take of me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. (<em>adjusting the pillows, which she puts round him</em>). Raise yourself a little for me to put this under you. Let us put this one for you to lean upon, and this one on the other side; this one behind your back, and this other to support your head."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. (<em>clapping a pillow rudely on his head</em>). And this other to keep you from the evening damp."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. (<em>rising angrily, and throwing the pillows after</em> Toinette, w_ho runs away_). Ah, wretch! you want to smother me."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Viii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ARGAN, BÉLINE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Now, now; what is it again?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. (<em>throwing himself in his chair</em>). Ah! I can hold out no longer."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. But why do you fly into such a passion? she thought she was doing right."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. You don't know, darling, the wickedness of that villainous baggage. She has altogether upset me, and I shall want more than eight different mixtures and twelve injections to remedy the evil."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Come, come, my dearie, compose yourself a little."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Lovey, you are my only consolation."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Poor little pet!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. To repay you for all the love you have for me, my darling, I will, as I told you, make my will."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Ah, my soul! do not let us speak of that, I beseech you. I cannot bear to think of it, and the very word \"will\" makes me die of grief."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. I had asked you to speak to our notary about it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. There he is, close at hand; I have brought him with me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Make him come in then, my life!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Alas! my darling, when a woman loves her husband so much, she finds it almost impossible to think of these things."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Ix."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——MR. DE BONNEFOI, BÉLINE, ARGAN.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Come here, Mr. de Bonnefoi, come here. Take a seat, if you please. My wife tells me, Sir, that you are a very honest man, and altogether one of her friends; I have therefore asked her to speak to you about a will which I wish to make."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Alas! I cannot speak of those things."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. de Bon. She has fully explained to me your intentions, Sir, and what you mean to do for her. But I have to tell you that you can give nothing to your wife by will."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. But why so?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. de Bon. It is against custom. If you were in a district where statute law prevailed, the thing could be done; but in Paris, and in almost all places governed by custom, it cannot be done; and the will would be held void. The only settlement that man and wife can make on each other is by mutual donation while they are alive, and even then there must be no children from either that marriage or from any previous marriage at the decease of the first who dies."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. It's a very impertinent custom that a husband can leave nothing to a wife whom he loves, by whom he is tenderly loved, and who takes so much care of him. I should like to consult my own advocate to see what I can do."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. de Bon. It is not to an advocate that you must apply; for they are very particular on this point and think it a great crime to bestow one's property contrary to the law. They are people to make difficulties, and are ignorant of the bylaws of conscience. There are others whom you may consult with advantage on that point, and who have expedients for gently overriding the law, and for rendering just that which is not allowed. These know how to smooth over the difficulties of an affair, and to find the means of eluding custom by some indirect advantage. Without that, what would become of us every day? We must make things easy; otherwise we should do nothing, and I wouldn't give a penny for our business."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. My wife had rightly told me, Sir, that you were a very clever and honest man. What can I do, pray, to give her my fortune and deprive my children of it?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. de Bon. What you can do? You can discreetly choose a friend of your wife, to whom you will give all you own in due form by your will, and that friend will give it up to her afterwards; or else you can sign a great many safe bonds in favour of various creditors who will lend their names to your wife, and in whose hands they will leave a declaration that what was done was only to serve her. You can also in your lifetime put in her hands ready money and bills which you can make payable to bearer."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Alas! you must not trouble yourself about all that. If I lose you, my child, I will stay no longer in the world."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. My darling!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Yes, my pet, if I were unfortunate enough to lose you …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. My dear wifey!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Life would be nothing to me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. My love!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. And I would follow you to the grave, to show you all the tenderness I feel for you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. You will break my heart, deary; comfort yourself, I beseech you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. de Bon. (<em>to</em> BÉLINE). These tears are unseasonable; things have not come to that yet."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Ah, Sir! you don't know what it is to have a husband one loves tenderly."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. All the regret I shall have, if I die, my darling, will be to have no child from you. Mr. Purgon told me he would make me have one."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. de Bon. That may come still."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. I must make my will, deary, according to what this gentleman advises; but, out of precaution, I will give you the twenty thousand francs in gold which I have in the wainscoting of the recess of my room, and two bills payable to bearer which are due to me, one from Mr. Damon, the other from Mr. Géronte."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. No, no! I will have nothing to do with all that. Ah! How much do you say there is in the recess?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Twenty thousand francs, darling."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Don't speak to me of your money, I beseech you. Ah! How much are the two bills for?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. One, my love, is for four thousand francs, and the other for six thousand."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. All the wealth in the world, my soul, is nothing to me compared to you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. de Bon. (<em>to</em> Argan). Shall we draw up the will?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Yes, Sir. But we shall be more comfortable in my own little study. Help me, my love."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Come, my poor, dear child."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene X."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ANGÉLIQUE, TOINETTE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. They are shut up with the notary, and I heard something about a will; your mother-in-law doesn't go to sleep; it is, no doubt, some conspiracy of hers against your interests to which she is urging your father."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Let him dispose of his money as he likes, as long as he does not dispose of my heart in the same way. You see, Toinette, to what violence it is subjected. Do not forsake me, I beseech you, in this my extremity."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. I forsake you! I had rather die. In vain does your stepmother try to take me into her confidence, and make me espouse her interests. I never could like her, and I have always been on your side. Trust me, I will do every thing to serve you. But, in order to serve you more effectually, I shall change my tactics, hide my wish to help you, and affect to enter into the feelings of your father and your stepmother."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Try, I beseech you, to let Cléante know about the marriage they have decided upon."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. I have nobody to employ for that duty but the old usurer Punchinello, my lover; it will cost me a few honeyed words, which I am most willing to spend for you. To-day it is too late for that, but to-morrow morning early I will send for him, and he will be delighted to …"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Xi."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——BÉLINE \n(<em>in the house</em>), ANGÉLIQUE, TOINETTE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Toinette."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. (<em>to</em> Angélique). I am called away. Good night. Trust me."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "First Interlude."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Act Ii."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene I."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——CLÉANTE, TOINETTE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. (<em>not recognising</em> Cléante). What is it you want, Sir?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. What do I want?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Ah! ah! is it you? What a surprise! What are you coming here for?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. To learn my destiny, to speak to the lovely Angélique, to consult the feelings of her heart, and to ask her what she means to do about this fatal marriage of which I have been told."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Very well; but no one speaks so easily as all that to Angélique; you must take precautions, and you have been told how narrowly she is watched. She never goes out, nor does she see anybody. It was through the curiosity of an old aunt that we obtained leave to go to the play where your love began, and we have taken good care not to say anything about it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Therefore am I not here as Cléante, nor as her lover, but as the friend of her music-master, from whom I have obtained leave to say that I have come in his stead."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Here is her father; withdraw a little, and let me tell him who you are."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Ii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ARGAN, TOINETTE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. (<em>thinking himself alone</em>). Mr. Purgon told me that I was to walk twelve times to and fro in my room every morning, but I forgot to ask him whether it should be lengthways or across."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Sir, here is a gentleman …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Speak in a lower tone, you jade; you split my head open; and you forget that we should never speak so loud to sick people."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. I wanted to tell you, Sir …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Speak low, I tell you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Sir … (<em>She moves her lips as if she were speaking.</em>)"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. What?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. I tell you that … (<em>As before</em>.)"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. What is it you say?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. (<em>aloud</em>). I say that there is a gentleman here who wants to speak to you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Let him come in."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Iii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ARGAN, CLÉANTE, TOINETTE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Sir."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. (<em>to</em> Cléante). Do not speak so loud, for fear of splitting open the head of Mr. Argan."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Sir, I am delighted to find you up, and to see you better."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. (<em>affecting to be angry</em>). How! better? It is false; master is always ill."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. I had heard that your master was better, and I think that he looks well in the face."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. What do you mean by his looking well in the face? He looks very bad, and it is only impertinent folks who say that he is better; he never was so ill in his life."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. She is right."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. He walks, sleeps, eats, and drinks, like other folks, but that does not hinder him from being very ill."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Quite true."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. I am heartily sorry for it, Sir. I am sent by your daughter's music-master; he was obliged to go into the country for a few days, and as I am his intimate friend, he has asked me to come here in his place, to go on with the lessons, for fear that, if they were discontinued, she should forget what she has already learnt."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Very well. (To Toinette Call Angélique. )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. I think, Sir, It would be better to take the gentleman to her room."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. No, make her come here."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. He cannot give her a good lesson if they are not left alone."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Oh! yes, he can."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Sir, it will stun you; and you should have nothing to disturb you in the state of health you are in."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. No, no; I like music, and I should be glad to…. Ah! here she is. (<em>To</em> Toinette Go and see if my wife is dressed. )"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Iv."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ARGAN, ANGÉLIQUE, CLÉANTE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Come, my daughter, your music-master is gone into the country, and here is a person whom he sends instead, to give you your lesson."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. (<em>recognising</em> Cléante). O heavens!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. What is the matter? Why this surprise?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. It is …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. What can disturb you in that manner?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. It is such a strange coincidence."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. How so?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. I dreamt last night that I was in the greatest trouble imaginable, and that some one exactly like this gentleman came to me. I asked him to help me, and presently he saved me from the great trouble I was in. My surprise was very great to meet unexpectedly, on my coming here, him of whom I had been dreaming all night."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. It is no small happiness to occupy your thoughts whether sleeping or waking, and my delight would be great indeed if you were in any trouble out of which you would think me worthy of delivering you. There is nothing that I would not do for …"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene V."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ARGAN, ANGÉLIQUE, CLÉANTE, TOINETTE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. (<em>to</em> Argan). Indeed, Sir, I am of your opinion now, and I unsay all that I said yesterday. Here are Mr. Diafoirus the father, and Mr. Diafoirus the son, who are coming to visit you. How well provided with a son-in-law you will be! You will see the best-made young fellow in the world, and the most intellectual. He said but two words to me, it is true, but I was struck with them, and your daughter will be delighted with him."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. (<em>to</em> Cléante, <em>who moves as if to go</em>). Do not go, Sir. I am about, as you see, to marry my daughter, and they have just brought her future husband, whom she has not as yet seen."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. You do me great honour, Sir, in wishing me to be witness of such a pleasant interview."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. He is the son of a clever doctor, and the marriage will take place in four days."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Indeed!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Please inform her music-master of it, that he may be at the wedding."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. I will not fail to do so."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. And I invite you also."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. You do me too much honour."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Come, make room; here they are."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Vi."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——MR. DIAFOIRUS, THOMAS DIAFOIRUS, ARGAN, ANGÉLIQUE, CLÉANTE, TOINETTE, SERVANTS.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. (<em>putting up his hand to his night-cap without taking it off</em>). Mr. Purgon has forbidden me to uncover my head. You belong to the profession, and know what would be the consequence if I did so."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. We are bound in all our visits to bring relief to invalids, and not to injure them."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "(Mr. Argan <em>and</em> Mr. Diafoirus <em>speak at the same time.</em>)"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. I receive, Sir…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. We come here, Sir…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. With great joy…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. My son Thomas and myself…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. The honour you do me…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. To declare to you, Sir…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. And I wish…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. The delight we are in…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. I could have gone to your house…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. At the favour you do us…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. To assure you of it…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. In so kindly admitting us…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. But you know, Sir…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. To the honour, Sir…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. What it is to be a poor invalid…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. Of your alliance…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Who can only…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. And assure you…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Tell you here…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. That in all that depends on our knowledge…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. That he will seize every opportunity…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. As well as in any other way…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. To show you, Sir…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. That we shall ever be ready, Sir…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. That he is entirely at your service…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. To show you our zeal. (<em>To his son</em> Now, Thomas, come forward, and pay your respects. )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "T. Dia. (<em>to</em> Mr. Diafoirus). Ought I not to begin with the father?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. Yes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "T. Dia. (<em>to</em> Argan). Sir, I come to salute, acknowledge, cherish, and revere in you a second father; but a second father to whom I owe more, I make bold to say, than to the first. The first gave me birth; but you have chosen me. He received me by necessity, but you have accepted me by choice. What I have from him is of the body, corporal; what I hold from you is of the will, voluntary; and in so much the more as the mental faculties are above the corporal, in so much the more do I hold precious this future affiliation, for which I come beforehand to-day to render you my most humble and most respectful homage."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Long life to the colleges which send such clever people into the world!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "T. Dia. (<em>to</em> Mr. Diafoirus). Has this been said to your satisfaction, father?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. <em>Optime</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. (<em>to</em> Angélique). Come, bow to this gentleman."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "T. Dia (<em>to</em> Mr. Diafoirus). Shall I kiss?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. Yes, yes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "T. Dia. (<em>to</em> Angélique). Madam, it is with justice that heaven has given you the name of stepmother, since we see in you steps towards the perfect beauty which …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. (<em>to</em> Thomas Diafoirus). It is not to my wife, but to my daughter, that you are speaking."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "T. Dia. Where is she?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. She will soon come."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "T. Dia. Shall I wait, father, till she comes?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. No; go through your compliments to the young lady in the meantime."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "T. Dia. Madam, as the statue of Memnon gave forth a harmonious sound when it was struck by the first rays of the sun, in like manner do I experience a sweet rapture at the apparition of this sun of your beauty. As the naturalists remark that the flower styled heliotrope always turns towards the star of day, so will my heart for ever turn towards the resplendent stars of your adorable eyes as to its only pole. Suffer me, then, Madam, to make to-day on the altar of your charms the offering of a heart which longs for and is ambitious of no greater glory than to be till death, Madam, your most humble, most obedient, most faithful servant and husband."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Ah! See what it is to study, and how one learns to say fine things!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. (<em>to</em> Cléante). Well! what do you say to that?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. The gentleman does wonders, and if he is as good a doctor as he is an orator, it will be most pleasant to be one of his patients."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Certainly, it will be something admirable if his cures are as wonderful as his speeches."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Now, quick, my chair; and seats for everybody. (<em>Servants bring chairs.</em> Sit down here, my daughter. (<em>To</em> M. Diafoirus You see, Sir, that everybody admires your son; and I think you very fortunate in being the father of such a fine young man.) )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. Sir, it is not because I am his father, but I can boast that I have reason to be satisfied with him, and that all those who see him speak of him as of a youth without guile. He has not a very lively imagination, nor that sparkling wit which is found in some others; but it is this which has always made me augur well of his judgment, a quality required for the exercise of our art. As a child he never was what is called sharp or lively. He was always gentle, peaceful, taciturn, never saying a word, and never playing at any of those little pastimes that we call children's games. It was found most difficult to teach him to read, and he was nine years old before he knew his letters. A good omen, I used to say to myself; trees slow of growth bear the best fruit. We engrave on marble with much more difficulty than on sand, but the result is more lasting; and that dulness of apprehension, that heaviness of imagination, is a mark of a sound judgment in the future. When I sent him to college, he found it hard work, but he stuck to his duty, and bore up with obstinacy against all difficulties. His tutors always praised him for his assiduity and the trouble he took. In short, by dint of continual hammering, he at last succeeded gloriously in obtaining his degree; and I can say, without vanity, that from that time till now there has been no candidate who has made more noise than he in all the disputations of our school. There he has rendered himself formidable, and no debate passes but he goes and argues loudly and to the last extreme on the opposite side. He is firm in dispute, strong as a Turk in his principles, never changes his opinion, and pursues an argument to the last recesses of logic. But, above all things, what pleases me in him, and what I am glad to see him follow my example in, is that he is blindly attached to the opinions of the ancients, and that he would never understand nor listen to the reasons and the experiences of the pretended discoveries of our century concerning the circulation of the blood and other opinions of the same stamp."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "T. Dia. (<em>pulling out of his pocket a long paper rolled up, and presenting it to</em> Angélique). I have upheld against these circulators a thesis which, with the permission (<em>bowing to</em> Argan of this gentleman, I venture to present to the young lady as the first-fruits of my genius. )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Sir, it is a useless piece of furniture to me; I do not understand these things."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. (<em>taking the paper</em>). Never mind; give it all the same; the picture will be of use, and we will adorn our attic with it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "T. Dia. (<em>again bowing to</em> Angélique). With the permission of this gentleman, I invite you to come one of these days to amuse yourself by assisting at the dissection of a woman upon whose body I am to give lectures."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. The treat will be most welcome. There are some who give the pleasure of seeing a play to their lady-love; but a dissection is much more gallant."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. Moreover, in respect to the qualities required for marriage, I assure you that he is all you could wish, and that his children will be strong and healthy."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Do you not intend, Sir, to push his way at court, and obtain for him the post of physician there?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. To tell you the truth, I have never had any predilection to practice with the great; it never seemed pleasant to me, and I have found that it is better for us to confine ourselves to the ordinary public. Ordinary people are more convenient; you are accountable to nobody for your actions, and as long as you follow the common rules laid down by the faculty, there is no necessity to trouble yourself about the result. What is vexatious among people of rank is that, when they are ill, they positively expect their doctor to cure them."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. How very absurd! How impertinent of them to ask of you doctors to cure them! You are not placed near them for that, but only to receive your fees and to prescribe remedies. It is their own look-out to get well if they can."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. Quite so. We are only bound to treat people according to form."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. (<em>to</em> Cléante). Sir, please make my daughter sing before the company."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. I was waiting for your commands, Sir; and I propose, in order to amuse the company, to sing with the young lady an operetta which has lately come out. (<em>To</em> Angélique, <em>giving her a paper</em> There is your part. )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Mine?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. (<em>aside to</em> Angélique). Don't refuse, pray; but let me explain to you what is the scene we must sing. (<em>Aloud</em> I have no voice; but in this case it is sufficient if I make myself understood; and you must have the goodness to excuse me, because I am under the necessity of making the young lady sing. )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Are the verses pretty?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. It is really nothing but a small extempore opera, and what you will hear is only rhythmical prose or a kind of irregular verse, such as passion and necessity make two people utter."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Very well; let us hear."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. The subject of the scene is as follows. A shepherd was paying every attention to the beauties of a play, when he was disturbed by a noise close to him, and on turning round he saw a scoundrel who, with insolent language, was annoying a young shepherdess. He immediately espoused the cause of a sex to which all men owe homage; and after having chastised the brute for his insolence, he came near the shepherdess to comfort her. He sees a young girl with the most beautiful eyes he has ever beheld, who is shedding tears which he thinks the most precious in the world. Alas! says he to himself, can any one be capable of insulting such charms? Where is the unfeeling wretch, the barbarous man to be found who will not feel touched by such tears? He endeavours to stop those beautiful tears, and the lovely shepherdess takes the opportunity of thanking him for the slight service he has rendered her. But she does it in a manner so touching, so tender, and so passionate that the shepherd cannot resist it, and each word, each look is a burning shaft which penetrates his heart. Is there anything in the world worthy of such thanks? and what will not one do, what service and what danger will not one be delighted to run to attract upon oneself even for a moment the touching sweetness of so grateful a heart? The whole play was acted without his paying any more attention to it; yet he complains that it was too short, since the end separates him from his lovely shepherdess. From that moment, from that first sight, he carries away with him a love which has the strength of a passion of many years. He now feels all the pangs of absence, and is tormented in no longer seeing what he beheld for so short a time. He tries every means to meet again with a sight so dear to him, and the remembrance of which pursues him day and night. But the great watch which is kept over his shepherdess deprives him of all the power of doing so. The violence of his passion urges him to ask in marriage the adorable beauty without whom he can no longer live, and he obtains from her the permission of doing so, by means of a note that he has succeeded in sending to her. But he is told in the meantime that the father of her whom he loves has decided upon marrying her to another, and that everything is being got ready to celebrate the wedding. Judge what a cruel wound for the heart of that poor shepherd! Behold him suffering from this mortal blow; he cannot bear the dreadful idea of seeing her he loves in the arms of another; and in his despair he finds the means of introducing himself into the house of his shepherdess, in order to learn her feelings and to hear from her the fate he must expect. There he sees everything ready for what he fears; he sees the unworthy rival whom the caprice of a father opposes to the tenderness of his love; he sees that ridiculous rival triumphant near the lovely shepherdess, as if already assured of his conquest. Such a sight fills him with a wrath he can hardly master. He looks despairingly at her whom he adores, but the respect he has for her and the presence of her father prevent him from speaking except with his eyes. At last he breaks through all restraint, and the greatness of his love forces him to speak as follows. (<em>He sings</em>.)"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Phyllis, too sharp a pain you bid me bear;<br>Break this stern silence, tell me what to fear;<br>Disclose your thoughts, and bid them open lie<br>To tell me if I live or die."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The marriage preparations sadden me.<br>O'erwhelmed with sorrow,<br>My eyes I lift to heaven; I strive to pray,<br>Then gaze on you and sigh. No more I say."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Tircis, who fain would woo,<br>Tell him, Phyllis, is it true,<br>Is he so blest by your sweet grace<br>As in your heart to find a place?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I may not hide it, in this dire extreme,<br>Tircis, I own for you my love…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "O blessed words! am I indeed so blest?<br>Repeat them, Phyllis; set my doubts at rest."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I love you, Tircis!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ah! Phyllis, once again."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I love you, Tircis!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alas! I fain<br>A hundred times would hearken to that strain."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I love you! I love you!  \nTircis, I love you!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ye kings and gods who, from your eternal seat,<br>Behold the world of men beneath your feet,<br>Can you possess a happiness more sweet?<br>My Phyllis! one dark haunting fear<br>Our peaceful joy disturbs unsought;<br>A rival may my homage share."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ah! worse than death is such a thought!  \nIts presence equal torment is<br>To both, and mars my bliss."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Your father to his vow would subject you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ah! welcome death before I prove untrue."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. And what does the father say to all that?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Nothing."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Then that father is a fool to put up with those silly things, without saying a word!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. (<em>trying to go on singing</em>)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ah! my love…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. No; no; that will do. An opera like that is in very bad taste. The shepherd Tircis is an impertinent fellow, and the shepherdess Phyllis an impudent girl to speak in that way in the presence of her father. (<em>To</em> Angélique Show me that paper. Ah! ah! and where are the words that you have just sung? This is only the music. )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Are you not aware, Sir, that the way of writing the words with the notes themselves has been lately discovered?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Has it? Good-bye for the present. We could have done very well without your impertinent opera."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. I thought I should amuse you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Foolish things do not amuse, Sir. Ah! here is my wife."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Vii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——BÉLINE, ARGAN, ANGÉLIQUE, MR. DIAFOIRUS, T. DIAFOIRUS, TOINETTE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. My love, here is the son of Mr. Diafoirus."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "T. Dia. Madam, it is with justice that heaven has given you the title of stepmother, since we see in you steps …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Sir, I am delighted to have come here just in time to see you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "T. Dia. Since we see in you … since we see in you…. Madam, you have interrupted me in the middle of my period, and have troubled my memory."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. Keep it for another time."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. I wish, my dear, that you had been here just now."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Ah! Madam, how much you have lost by not being at the second father, the statue of Memnon, and the flower styled heliotrope."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Come, my daughter, shake hands with this gentleman, and pledge him your troth."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Father!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Well? What do you mean by \"Father\"?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. I beseech you not to be in such a hurry; give us time to become acquainted with each other, and to see grow in us that sympathy so necessary to a perfect union."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "T. Dia. As far as I am concerned, Madam, it is already full-grown within me, and there is no occasion for me to wait."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. I am not so quick as you are, Sir, and I must confess that your merit has not yet made enough impression on my heart."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Oh! nonsense! There will be time enough for the impression to be made after you are married."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Ah! my father, give me time, I beseech you! Marriage is a chain which should never be imposed by force. And if this gentleman is a man of honour, he ought not to accept a person who would be his only by force."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "T. Dia. <em>Nego consequentiam.</em> I can be a man of honour, Madam, and at the same time accept you from the hands of your father."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. To do violence to any one is a strange way of setting about inspiring love."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "T. Dia. We read in the ancients, Madam, that it was their custom to carry off by main force from their father's house the maiden they wished to marry, so that the latter might not seem to fly of her own accord into the arms of a man."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. The ancients, Sir, are the ancients; but we are the moderns. Pretences are not necessary in our age; and when a marriage pleases us, we know very well how to go to it without being dragged by force. Have a little patience; if you love me, Sir, you ought to do what I wish."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "T. Dia. Certainly, Madam, but without prejudice to the interest of my love."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. But the greatest mark of love is to submit to the will of her who is loved."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "T. Dia. <em>Distinguo</em>, Madam. In what does not regard the possession of her, <em>concedo</em>; but in what regards it, <em>nego</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. (to Angélique). It is in vain for you to argue. This gentleman is bran new from college, and will be more than a match for you. Why resist, and refuse the glory of belonging to the faculty?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. She may have some other inclination in her head."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. If I had, Madam, it would be such as reason and honour allow."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Heyday! I am acting a pleasant part here!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. If I were you, my child, I would not force her to marry; I know very well what I should do."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. I know what you mean, Madam, and how kind you are to me; but it may be hoped that your advice may not be fortunate enough to be followed."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. That is because well-brought-up and good children, like you, scorn to be obedient to the will of their fathers. Obedience was all very well in former times."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. The duty of a daughter has its limits, Madam, and neither reason nor law extend it to all things."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Which means that your thoughts are all in favour of marriage, but that you will choose a husband for yourself."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. If my father will not give me a husband I like, at least I beseech him not to force me to marry one I can never love."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Gentlemen, I beg your pardon for all this."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. We all have our own end in marrying. For my part, as I only want a husband that I can love sincerely, and as I intend to consecrate my whole life to him, I feel bound, I confess, to be cautious. There are some who marry simply to free themselves from the yoke of their parents, and to be at liberty to do all they like. There are others, Madam, who see in marriage only a matter of mere interest; who marry only to get a settlement, and to enrich themselves by the death of those they marry. They pass without scruple from husband to husband, with an eye to their possessions. These, no doubt, Madam, are not so difficult to satisfy, and care little what the husband is like."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. You are very full of reasoning to-day. I wonder what you mean by this."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. I, Madam? What can I mean but what I say?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. You are such a simpleton, my dear, that one can hardly bear with you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. You would like to extract from me some rude answer; but I warn you that you will not have the pleasure of doing so."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Nothing can equal your impertinence."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. It is of no use, Madam; you will not."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. And you have a ridiculous pride, an impertinent presumption, which makes you the scorn of everybody."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. All this will be useless, Madam. I shall be quiet in spite of you; and to take away from you all hope of succeeding in what you wish, I will withdraw from your presence."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Viii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ARGAN, BÉLINE, MR. DIAFOIRUS, T. DIAFOIRUS, TOINETTE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. (<em>to</em> Angélique, <em>as she goes away</em>). Listen to me! Of two things, one. Either you will marry this gentleman or you will go into a convent. I give you four days to consider. (<em>To</em> Béline Don't be anxious; I will bring her to reason. )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. I am sorry to leave you, my child; but I have some important business which calls me to town. I shall soon be back."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Go, my darling; call upon the notary, and tell him to be quick about you know what."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Good-bye, my child."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Good-bye, deary."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Ix."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ARGAN, MR. DIAFOIRUS, T. DIAFOIRUS, TOINETTE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. How much this woman loves me; it is perfectly incredible."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. We shall now take our leave of you, Sir."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. I beg of you, Sir, to tell me how I am."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. (<em>feeling</em> Argan's <em>pulse</em>). Now, Thomas, take the other arm of the gentleman, so that I may see whether you can form a right judgment on his pulse. <em>Quid dicis?</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "T. Dia. <em>Dico</em> that the pulse of this gentleman is the pulse of a man who is not well."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. Good."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "T. Dia. That it is <em>duriusculus</em>, not to say <em>durus</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. Very well."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "T. Dia. Irregular."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. <em>Bene.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "T. Dia. And even a little caprizant."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. <em>Optime.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "T. Dia. Which speaks of an intemperance in the splenetic <em>parenchyma</em>; that is to say, the spleen."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. Quite right."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. It cannot be, for Mr. Purgon says that it is my liver which is out of order."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. Certainly; he who says <em>parenchyma</em> says both one and the other, because of the great sympathy which exists between them through the means of the <em>vas breve</em>, of the <em>pylorus</em>, and often of the <em>meatus choledici</em>. He no doubt orders you to eat plenty of roast-meat."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. No; nothing but boiled meat."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. Yes, yes; roast or boiled, it is all the same; he orders very wisely, and you could not have fallen into better hands."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Sir, tell me how many grains of salt I ought to put to an egg?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Dia. Six, eight, ten, by even numbers; just as in medicines by odd numbers."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Good-bye, Sir; I hope soon to have the pleasure of seeing you again."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene X."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——BÉLINE, ARGAN.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Before I go out, I must inform you of one thing you must be careful about. While passing before Angélique's door, I saw with her a young man, who ran away as soon as he noticed me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. A young man with my daughter!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Yes; your little girl Louison, who was with them, will tell you all about it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Send her here, my love, send her here at once. Ah! the brazen-faced girl! (<em>Alone</em>. I no longer wonder at the resistance she showed. )"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Xi."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ARGAN, LOUISON.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. What do you want, papa? My step-mamma told me to come to you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Yes; come here. Come nearer. Turn round, and hold up your head. Look straight at me. Well?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. What, papa?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. So?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. What?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Have you nothing to say to me?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. Yes. I will, to amuse you, tell you, if you like, the story of the Ass's Skin or the fable of the Fox and the Crow, which I have learnt lately."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. That is not what I want of you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. What is it then?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Ah! cunning little girl, you know very well what I mean."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. No indeed, papa."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Is that the way you obey me?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. What, papa?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Have I not asked you to tell me at once all you see?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. Yes, papa."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Have you done so?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. Yes, papa. I always come and tell you all I see."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. And have you seen nothing to-day?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. No, papa."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. No?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. No, papa."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Quite sure?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. Quite sure."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Ah! indeed! I will make you see something soon."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. (<em>seeing</em> Argan <em>take a rod</em>). Ah! papa!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Ah! ah! false little girl; you do not tell me that you saw a man in your sister's room!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. (<em>crying</em>). Papa!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. (<em>taking</em> Louison <em>by the arm</em>). This will teach you to tell falsehoods."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. (<em>throwing herself on her knees</em>). Ah! my dear papa! pray forgive me. My sister had asked me not to say anything to you, but I will tell you everything."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. First you must have a flogging for having told an untruth, then we will see to the rest."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. Forgive me, papa, forgive me!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. No, no!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. My dear papa, don't whip me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Yes, you shall be whipped."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. For pity's sake! don't whip me, papa."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. (<em>going to whip her</em>). Come, come."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. Ah! papa, you have hurt me; I am dead! (<em>She feigns to be dead.</em>)"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. How, now! What does this mean? Louison! Louison! Ah! heaven! Louison! My child! Ah! wretched father! My poor child is dead! What have I done? Ah! villainous rod! A curse on the rod! Ah! my poor child! My dear little Louison!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. Come, come, dear papa; don't weep so. I am not quite dead yet."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Just see the cunning little wench. Well! I forgive you this once, but you must tell me everything."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. Oh yes, dear papa."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Be sure you take great care, for here is my little finger that knows everything, and it will tell me if you don't speak the truth."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. But, papa, you won't tell sister that I told you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. No, no."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. (<em>after having listened to see if any one can hear</em>). Papa, a young man came into sister's room while I was there."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Well?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. I asked him what he wanted; he said that he was her music-master."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. (<em>aside</em>). Hm! hm! I see. (<em>To</em> Louison Well? )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. Then sister came."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Well?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. She said to him, \"Go away, go away, go. Good heavens! you will drive me to despair.\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Well?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. But he would not go away."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. What did he say to her?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. Oh! ever so many things."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. But what?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. He told her this, and that, and the other; that he loved her dearly; that she was the most beautiful person in the world."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. And then, after?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. Then he knelt down before her."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. And then?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. Then he kept on kissing her hands."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. And then?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. Then my mamma came to the door, and, he escaped."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Nothing else?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. No, dear papa."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Here is my little finger, which says something though. (<em>Putting his finger up to his ear.</em> Wait. Stay, eh? ah! ah! Yes? oh! oh! here is my little finger, which says that there is something you saw, and which you do not tell me. )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. Ah! papa, your little finger is a story-teller."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Take care."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lou. No, don't believe him; he tells a story, I assure you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Oh! Well, well; we will see to that. Go away now, and pay great attention to what you see. (<em>Alone.</em> Ah! children are no longer children nowadays! What trouble! I have not even enough leisure to attend to my illness. I am quite done up. (<em>He falls down into his chair.</em>) )"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Xii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——BÉRALDE, ARGAN.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. Well, brother! What is the matter? How are you?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Ah! very bad, brother; very bad."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. How is that?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. No one would believe how very feeble I am."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. That's a sad thing, indeed."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. I have hardly enough strength to speak."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. I came here, brother, to propose a match for my niece, Angélique."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. (<em>in a rage, speaking with great fury, and starting up from his chair</em>). Brother, don't speak to me of that wicked, good-for-nothing, insolent, brazen-faced girl. I will put her in a convent before two days are over."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. Ah! all right! I am glad to see that you have a little strength still left, and that my visit does you good. Well, well, we will talk of business by-and-by. I have brought you an entertainment, which will dissipate your melancholy, and will dispose you better for what we have to talk about. They are gipsies dressed in Moorish clothes. They perform some dances mixed with songs, which, I am sure, you will like, and which will be as good as a prescription from Mr. Purgon. Come along."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Second Interlude."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Men <em>and</em> Women (<em>dressed as Moors</em>)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "First Moorish Woman."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "When blooms the spring of life,<br>  The golden harvest reap.<br>Waste not your years in bootless strife,<br>  Till age upon your bodies creep.<br>But now, when shines the kindly light,<br>Give up your soul to love's delight."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "No touch of sweetest joy<br>  This longing heart can know,<br>No bliss without alloy<br>  When love does silent show."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Then up, ye lads and lasses gay!  \n  The spring of life is fair;<br>  Cloud not these hours with care,<br>For love must win the day."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Beauty fades,<br>  Years roll by,<br>Lowering shades<br>  Obscure the sky.<br>And joys so sweet of yore<br>Shall charm us then no more."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Then up, ye lads and lasses gay!  \n  The spring of life is fair;<br>  Cloud not these hours with care,<br>For love must win the day."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<em>First Entry of the</em> Ballet."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "nd Moorish Woman."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "They bid us love, they bid us woo,<br>  Why seek delay?<br>To tender sighs and kisses too<br>  In youth's fair day,<br>Our hearts are but too true."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The sweetest charms has Cupid's spell.<br>  No sooner felt, the ready heart<br>His conquered self would yield him well<br>  Ere yet the god had winged his dart.<br>But yet the tale we often hear<br>  Of tears and sorrows keen,<br>  To share in them, I ween,<br>Though sweet, would make us fear!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "rd Moorish Woman."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "To love a lover true,<br>  In youth's kind day, I trow,<br>  Is pleasant task enow;<br>But think how we must rue<br>  If he inconstant show!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "th Moorish Woman."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The loss of lover false to me<br>But trifling grief would be,<br>Yet this is far the keenest smart<br>That he had stol'n away our heart."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "nd Moorish Woman."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What then shall we do<br>Whose hearts are so young?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "th Moorish Woman."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Though cruel his laws,<br>Attended by woes,<br>Away with your arms,<br>Submit to his charms!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Together."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "His whims ye must follow,<br>  His transports though fleet,<br>  His pinings too sweet<br>Though often comes sorrow,<br>The thousand delights<br>  The wounds of his darts<br>   Still charm all the hearts."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Act Iii."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene I."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——BÉRALDE, ARGAN, TOINETTE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. Well, brother, what do you say to that? Isn't it as good as a dose of cassia?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Oh! good cassia is a very good thing, Sir."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. Now, shall we have a little chat together."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Wait a moment, brother, I'll be back directly."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Here, Sir; you forget that you cannot get about without a stick."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Ay, to be sure."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Ii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——BÉRALDE, TOINETTE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Pray, do not give up the interest of your niece."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. No, I shall do all in my power to forward her wishes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. We must prevent this foolish marriage which he has got into his head, from taking place. And I thought to myself that it would be a good thing to introduce a doctor here, having a full understanding of our wishes, to disgust him with his Mr. Purgon, and abuse his mode of treating him. But as we have nobody to act that part for us, I have decided upon playing him a trick of my own."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. In what way?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. It is rather an absurd idea, and it may be more fortunate than good. But act your own part. Here is our man."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Iii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ARGAN, BÉRALDE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. Let me ask you, brother, above all things not to excite yourself during our conversation."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. I agree."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. To answer without anger to anything I may mention."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Very well."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. And to reason together upon the business I want to discuss with you without any irritation."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Dear me! Yes. What a preamble!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. How is it, brother, that, with all the wealth you possess, and with only one daughter—for I do not count the little one—you speak of sending her to a convent?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. How is it, brother, that I am master of my family, and that I can do all I think fit?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. Your wife doesn't fail to advise you to get rid, in that way, of your two daughters; and I have no doubt that, through a spirit of charity, she would be charmed to see them both good nuns."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Oh, I see! My poor wife again! It is she who does all the harm, and everybody is against her."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. No, brother; let us leave that alone. She is a woman with the best intentions in the world for the good of your family, and is free from all interested motives. She expresses for you the most extraordinary tenderness, and shows towards your children an inconceivable goodness. No, don't let us speak of her, but only of your daughter. What can be your reason for wishing to give her in marriage to the sort of a doctor?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. My reason is that I wish to have a son-in-law who will suit my wants."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. But it is not what your daughter requires, and we have a more suitable match for her."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Yes; but this one is more suitable for me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. But does she marry a husband for herself or for you, brother?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. He must do both for her and for me, brother; and I wish to take into my family people of whom I have need."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. So that, if your little girl were old enough, you would give her to an apothecary?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Why not?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. Is it possible that you should always be so infatuated with your apothecaries and doctors, and be so determined to be ill, in spite of men and nature?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. What do you mean by that, brother?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. I mean, brother, that I know of no man less sick than you, and that I should be quite satisfied with a constitution no worse than yours. One great proof that you are well, and that you have a body perfectly well made, is that with all the pains you have taken, you have failed as yet in injuring the soundness of your constitution, and that you have not died of all the medicine they have made you swallow."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. But are you aware, brother, that it is these medicines which keep me in good health? Mr. Purgon says that I should go off if he were but three days without taking care of me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. If you are not careful, he will take such care of you that he will soon send you into the next world."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. But let us reason together, brother; don't you believe at all in medicine?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. No, brother; and I do not see that it is necessary for our salvation to believe in it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. What! Do you not hold true a thing acknowledged by everybody, and revered throughout all ages?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. Between ourselves, far from thinking it true, I look upon it as one of the greatest follies which exist among men; and to consider things from a philosophical point of view, I don't know of a more absurd piece of mummery, of anything more ridiculous, than a man who takes upon himself to cure another man."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Why will you not believe that a man can cure another?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. For the simple reason, brother, that the springs of our machines are mysteries about which men are as yet completely in the dark, and nature has put too thick a veil before our eyes for us to know anything about it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Then, according to you, the doctors know nothing at all."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. Oh yes, brother. Most of them have some knowledge of the best classics, can talk fine Latin, can give a Greek name to every disease, can define and distinguish them; but as to curing these diseases, that's out of the question."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Still, you must agree to this, that doctors know more than others."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. They know, brother, what I have told you; and that does not effect many cures. All the excellency of their art consists in pompous gibberish, in a specious babbling, which gives you words instead of reasons, and promises instead Of results."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Still, brother, there exist men as wise and clever as you, and we see that in cases of illness every one has recourse to the doctor."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. It is a proof of human weakness, and not of the truth of their art."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Still, doctors must believe in their art, since they make use of it for themselves."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. It is because some of them share the popular error by which they themselves profit, while others profit by it without sharing it. Your Mr. Purgon has no wish to deceive; he is a thorough doctor from head to foot, a man who believes in his rules more than in all the demonstrations of mathematics, and who would think it a crime to question them. He sees nothing obscure in physic, nothing doubtful, nothing difficult, and through an impetuous prepossession, an obstinate confidence, a coarse common sense and reason, orders right and left purgatives and bleedings, and hesitates at nothing. We must bear him no ill-will for the harm he does us; it is with the best intentions in the world that he will send you into the next world, and in killing you he will do no more than he has done to his wife and children, and than he would do to himself, if need be."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. It is because you have a spite against him. But let us come to the point. What is to be done when one is ill?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. Nothing, brother."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Nothing?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. Nothing. Only rest. Nature, when we leave her free, will herself gently recover from the disorder into which she has fallen. It is our anxiety, our impatience, which does the mischief, and most men die of their remedies, and not of their diseases."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Still you must acknowledge, brother, that we can in certain things help nature."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. Alas! brother; these are pure fancies, with which we deceive ourselves. At all times, there have crept among men brilliant fancies in which we believe, because they flatter us, and because it would be well if they were true. When a doctor speaks to us of assisting, succouring nature, of removing what is injurious to it, of giving it what it is defective in, of restoring it, and giving back to it the full exercise of its functions, when he speaks of purifying the blood, of refreshing the bowels and the brain, of correcting the spleen, of rebuilding the lungs, of renovating the liver, of fortifying the heart, of re-establishing and keeping up the natural heat, and of possessing secrets wherewith to lengthen life of many years—he repeats to you the romance of physic. But when you test the truth of what he has promised to you, you find that it all ends in nothing; it is like those beautiful dreams which only leave you in the morning the regret of having believed in them."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Which means that all the knowledge of the world is contained in your brain, and that you think you know more than all the great doctors of our age put together."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. When you weigh words and actions, your great doctors are two different kinds of people. Listen to their talk, they are the cleverest people in the world; see them at work, and they are the most ignorant."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Heyday! You are a great doctor, I see, and I wish that some one of those gentlemen were here to take up your arguments and to check your babble."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. I do not take upon myself, brother, to fight against physic; and every one at their own risk and peril may believe what he likes. What I say is only between ourselves; and I should have liked, in order to deliver you from the error into which you have fallen, and in order to amuse you, to take you to see some of Molière's comedies on this subject."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Your Molière is a fine impertinent fellow with his comedies! I think it mightily pleasant of him to go and take off honest people like the doctors."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. It is not the doctors themselves that he takes off, but the absurdity of medicine."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. It becomes him well, truly, to control the faculty! He's a nice simpleton, and a nice impertinent fellow to laugh at consultations and prescriptions, to attack the body of physicians, and to bring on his stage such venerable people as those gentlemen."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. What would you have him bring there but the different professions of men? Princes and kings are brought there every day, and they are of as good a stock as your physicians."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. No, by all the devils! if I were a physician, I would be revenged of his impertinence, and when he falls ill, I would let him die without relief. In vain would he beg and pray. I would not prescribe for him the least little bleeding, the least little injection, and I would tell him, \"Die, die, like a dog; it will teach you to laugh at us doctors.\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. You are terribly angry with him."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Yes, he is an ill-advised fellow, and if the doctors are wise, they will do what I say."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. He will be wiser than the doctors, for he will not go and ask their help."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. So much the worse for him, if he has not recourse to their remedies."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. He has his reasons for not wishing to have anything to do with them; he is certain that only strong and robust constitutions can bear their remedies in addition to the illness, and he has only just enough strength for his sickness."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. What absurd reasons. Here, brother, don't speak to me anymore about that man; for it makes me savage, and you will give me his complaint."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. I will willingly cease, brother; and, to change the subject, allow me to tell you that, because your daughter shows a slight repugnance to the match you propose, it is no reason why you should shut her up in a convent. In your choice of a son-in-law you should not blindly follow the anger which masters you. We should in such a matter yield a little to the inclinations of a daughter, since it is for all her life, and the whole happiness of her married life depends on it."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Iv."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——MR. FLEURANT, ARGAN, BÉRALDE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Ah! brother, with your leave."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. Eh? What are you going to do?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. To take this little clyster; it will soon be done."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. Are you joking? Can you not spend one moment without clysters or physic? Put it off to another time, and be quiet."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Mr. Fleurant, let it be for to-night or to-morrow morning."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Fleu. (<em>to</em> Béralde). What right have you to interfere? How dare you oppose yourself to the prescription of the doctors, and prevent the gentleman from taking my clyster? You are a nice fellow to show such boldness."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. Go, Sir, go; it is easy to see that you are not accustomed to speak face to face with men."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Fleu. You ought not thus to sneer at physic, and make me lose my precious time. I came here for a good prescription, and I will go and tell Mr. Purgon that I have been prevented from executing his orders, and that I have been stopped in the performance of my duty. You'll see, you'll see…."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene V."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ARGAN, BÉRALDE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Brother, you'll be the cause that some misfortune will happen here."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. What a misfortune not to take a clyster prescribed by Mr. Purgon! Once more, brother, is it possible that you can't be cured of this doctor disease, and that you will thus bring yourself under their remedies?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Ah! brother. You speak like a man who is quite well, but if you were in my place, you would soon change your way of speaking. It is easy to speak against medicine when one is in perfect health."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. But what disease do you suffer from?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. You will drive me to desperation. I should like you to have my disease, and then we should see if you would prate as you do. Ah! here is Mr. Purgon."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Vi."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——MR. PURGON, ARGAN, BÉRALDE, TOINETTE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Pur. I have just heard nice news downstairs! You laugh at my prescriptions, and refuse to take the remedy which I ordered."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Sir, it is not …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Pur. What daring boldness, what a strange revolt of a patient against his doctor!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. It is frightful."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Pur. A clyster which I have had the pleasure of composing myself."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. It was not I…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Pur. Invented and made up according to all the rules of art."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. He was wrong."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Pur. And which was to work a marvellous effect on the intestines."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. My brother …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Pur. To send it back with contempt!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. (<em>showing</em> Béralde). It was he…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Pur. Such conduct is monstrous."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. So it is."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Pur. It is a fearful outrage against medicine."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. (<em>showing</em> Béralde). He is the cause…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Pur. A crime of high-treason against the faculty, and one which cannot be too severely punished."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. You are quite right."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Pur. I declare to you that I break off all intercourse with you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. It is my brother…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Pur. That I will have no more connection with you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. You will do quite right."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Pur. And to end all association with you, here is the deed of gift which I made to my nephew in favour of the marriage. (<em>He tears the document, and throws the pieces about furiously.</em>)"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. It is my brother who has done all the mischief."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Pur. To despise my clyster!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Let it be brought, I will take it directly."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Pur. I would have cured you in a very short time."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. He doesn't deserve it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Pur. I was about to cleanse your body, and to clear it of its bad humours."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Ah! my brother!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Pur. And it wanted only a dozen purgatives to cleanse it entirely."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. He is unworthy of your care."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Pur. But since you would not be cured by me …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. It was not my fault."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Pur. Since you have forsaken the obedience you owe to your doctor …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. It cries for vengeance."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Pur. Since you have declared yourself a rebel against the remedies I had prescribed for you …"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. No, no, certainly not."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Pur. I must now tell you that I give you up to your bad constitution, to the imtemperament of your intestines, to the corruption of your blood, to the acrimony of your bile, and to the feculence of your humours."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. It serves you right."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Alas!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Pur. And I will have you before four days in an incurable state."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Ah! mercy on me!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Pur. You shall fall into bradypepsia."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Mr. Purgon!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Pur. From bradypepsia into dyspepsia."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Mr. Purgon!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Pur. From dyspepsia into apepsy."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Mr. Purgon!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Pur. From apepsy into lientery."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Mr. Purgon!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Pur. From lientery into dysentery."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Mr. Purgon!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Pur. From dysentery into dropsy."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Mr. Purgon!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mr. Pur. And from dropsy to the deprivation of life into which your folly will bring you."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Vii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ARGAN, BÉRALDE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Ah heaven! I am dead. Brother, you have undone me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. Why? What is the matter?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. I am undone. I feel already that the faculty is avenging itself."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. Really, brother, you are crazy, and I would not for a great deal that you should be seen acting as you are doing. Shake yourself a little, I beg, recover yourself, and do not give way so much to your imagination."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. You hear, brother, with what strange diseases he has threatened me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. What a foolish fellow you are!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. He says that I shall become incurable within four days."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. And what does it signify what he says? Is it an oracle that has spoken? To hear you, anyone would think that Mr. Purgon holds in his hands the thread of your life, and that he has supreme authority to prolong it or to cut it short at his will. Remember that the springs of your life are in yourself, and that all the wrath of Mr. Purgon can do as little towards making you die, as his remedies can do to make you live. This is an opportunity, if you like to take it, of getting rid of your doctors; and if you are so constituted that you cannot do without them, it is easy for you, brother, to have another with whom you run less risk."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Ah, brother! he knows all about my constitution, and the way to treat me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. I must acknowledge that you are greatly infatuated, and that you look at things with strange eyes."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Viii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ARGAN, TOINETTE, BÉRALDE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. (<em>to</em> Argan). There is a doctor, here, Sir, who desires to see you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. What doctor?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. A doctor of medicine."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. I ask you who he is?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. I don't know who he is, but he is as much like me as two peas, and if I was not sure that my mother was an honest woman, I should say that this is a little brother she has given me since my father's death."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Ix."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ARGAN, BÉRALDE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. You are served according to your wish. One doctor leaves you, another comes to replace him."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. I greatly fear that you will cause some misfortune."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. Oh! You are harping upon that string again?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Ah! I have on my mind all those diseases that I don't understand, those…."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene X."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ARGAN, BÉRALDE, TOINETTE (<em>dressed as a doctor</em>).</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Allow me, Sir, to come and pay my respects to you, and to offer you my small services for all the bleedings and purging you may require."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. I am much obliged to you, Sir. (<em>To</em> Béralde Toinette herself, I declare! )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. I beg you will excuse me one moment, Sir. I forgot to give a small order to my servant."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Xi."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ARGAN, BÉRALDE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Would you not say that this is really Toinette?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. It is true that the resemblance is very striking. But it is not the first time that we have seen this kind of thing, and history is full of those freaks of nature."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. For my part, I am astonished, and …"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Xii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ARGAN, BÉRALDE, TOINETTE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. What do you want, Sir?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. What?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Did you not call me?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. I? No."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. My ears must have tingled then."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Just stop here one moment and see how much that doctor is like you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Ah! yes, indeed, I have plenty of time to waste! Besides, I have seen enough of him already."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Xiii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ARGAN, BÉRALDE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Had I not seen them both together, I should have believed it was one and the same person."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. I have read wonderful stories about such resemblances; and we have seen some in our day that have taken in everybody."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. For my part, I should have been deceived this time, and sworn that the two were but one."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Xiv."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ARGAN, BÉRALDE, TOINETTE (<em>as a doctor</em>).</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Sir, I beg your pardon with all my heart."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. (<em>to</em> Béralde). It is wonderful."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. You will not take amiss, I hope, the curiosity I feel to see such an illustrious patient; and your reputation, which reaches the farthest ends of the world, must be my excuse for the liberty I am taking."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Sir, I am your servant."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. I see, Sir, that you are looking earnestly at me. What age do you think I am?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. I should think twenty-six or twenty-seven at the utmost."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Ah! ah! ah! ah! ah! I am ninety years old."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Ninety years old!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Yes; this is what the secrets of my art have done for me to preserve me fresh and vigorous as you see."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Upon my word, a fine youthful old fellow of ninety!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. I am an itinerant doctor, and go from town to town, from province to province, from kingdom to kingdom, to seek out illustrious material for my abilities; to find patients worthy of my attention, capable of exercising the great and noble secrets which I have discovered in medicine. I disdain to amuse myself with the small rubbish of common diseases, with the trifles of rheumatism, coughs, fevers, vapours, and headaches. I require diseases of importance, such as good non-intermittent fevers with delirium, good scarlet-fevers, good plagues, good confirmed dropsies, good pleurisies with inflammations of the lungs. These are what I like, what I triumph in, and I wish, Sir, that you had all those diseases combined, that you had been given up, despaired of by all the doctors, and at the point of death, so that I might have the pleasure of showing you the excellency of my remedies, and the desire I have of doing you service!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. I am greatly obliged to you, Sir, for the kind intentions you have towards me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Let me feel your pulse. Come, come, beat properly, please. Ah! I will soon make you beat as you should. This pulse is trifling with me; I see that it does not know me yet. Who is your doctor?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Mr. Purgon."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. That man is not noted in my books among the great doctors. What does he say you are ill of?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. He says it is the liver, and others say it is the spleen."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. They are a pack of ignorant blockheads; you are suffering from the lungs."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. The lungs?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Yes; what do you feel?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. From time to time great pains in my head."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Just so; the lungs."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. At times it seems as if I had a mist before my eyes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. The lungs."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. I feel sick now and then."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. The lungs."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. And I feel sometimes a weariness in all my limbs."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. The lungs."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. And sometimes I have sharp pains in the stomach, as if I had the colic."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. The lungs. Do you eat your food with appetite?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Yes, Sir."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. The lungs. Do you like to drink a little wine?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Yes, Sir."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. The lungs. You feel sleepy after your meals, and willingly enjoy a nap?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Yes, Sir."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. The lungs, the lungs, I tell you. What does your doctor order you for food?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. He orders me soup."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Ignoramus!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Fowl."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Ignoramus!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Veal."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Ignoramus!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Broth."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Ignoramus!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. New-laid eggs."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Ignoramus!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. And at night a few prunes to relax the bowels."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Ignoramus!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. And, above all, to drink my wine well diluted with water."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. <em>Ignorantus, ignoranta, ignorantum.</em> You must drink your wine pure; and to thicken your blood, which is too thin, you must eat good fat beef, good fat pork, good Dutch cheese, some gruel, rice puddings, chestnuts, and thin cakes,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. You will oblige me greatly."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. What the deuce do you want with this arm?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. What?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. If I were you, I should have it cut off on the spot."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Why?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Don't you see that it attracts all the nourishment to itself, and hinders this side from growing?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. May be; but I have need of my arm."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. You have also a right eye that I would have plucked out if I were in your place."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. My right eye plucked out?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Don't you see that it interferes with the other, and robs it of its nourishment? Believe me; have it plucked out as soon as possible; you will see all the clearer with the left eye."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. There is no need to hurry."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Good-bye. I am sorry to leave you so soon, but I must assist at a grand consultation which is to take place about a man who died yesterday."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. About a man who died yesterday?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Yes, that we may consider and see what ought to have been done to cure him. Good-bye."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. You know that patients do not use ceremony."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Xv."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ARGAN, BÉRALDE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. Upon my word, this doctor seems to be a very clever man."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Yes, but he goes a little too fast."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. All great doctors do so."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Cut off my arm and pluck out my eye, so that the other may be better. I had rather that it were not better. A nice operation indeed, to make me at once one-eyed and one-armed."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Xvi."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ARGAN, BÉRALDE, TOINETTE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. (<em>pretending to speak to somebody</em>). Come, come, I am your servant; I'm in no joking humour."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. What is the matter?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Your doctor, forsooth, who wanted to feel my pulse!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Just imagine; and that, too, at fourscore and ten years of age."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. Now, I say, brother, since you have quarrelled with Mr. Purgon, won't you give me leave to speak of the match which is proposed for my niece?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. No, brother; I will put her in a convent, since she has rebelled against me. I see plainly that there is some love business at the bottom of it all, and I have discovered a certain secret interview which they don't suspect me to know anything about."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. Well, brother, and suppose there were some little inclination, where could the harm be? Would it be so criminal when it all tends to what is honourable—marriage?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Be that as it may, she will be a nun. I have made up my mind."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. You intend to please somebody by so doing."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. I understand what you mean. You always come back to that, and my wife is very much in your way."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. Well, yes, brother; since I must speak out, it is your wife I mean; for I can no more bear with your infatuation about doctors than with your infatuation about your wife, and see you run headlong into every snare she lays for you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Ah! Sir, don't talk so of mistress. She is a person against whom there is nothing to be said; a woman without deceit, and who loves master  ah! who loves him…. I can't express how much."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. (<em>to</em> Béralde). Just ask her all the caresses she lavishes for me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Yes, indeed!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. And all the uneasiness my sickness causes her."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Certainly."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. And the care and trouble she takes about me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Quite right. (<em>To</em> Béralde Will you let me convince you; and to show you at once how my mistress loves my master. (<em>To</em> Argan Sir, allow me to undeceive him, and to show him his mistake.) )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. How?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. My mistress will soon come back. Stretch yourself full-length in this arm-chair, and pretend to be dead. You will see what grief she will be in when I tell her the news."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Very well, I consent."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Yes; but don't leave her too long in despair, for she might die of it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Trust me for that."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. (<em>to</em> Béralde). Hide yourself in that corner."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Xvii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ARGAN, TOINETTE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Is there no danger in counterfeiting death?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. No, no. What danger can there be? Only stretch yourself there. It will be so pleasant to put your brother to confusion. Here is my mistress. Mind you keep still."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Xviii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——BÉLINE, ARGAN (<em>stretched out in his chair</em>), TOINETTE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. (<em>pretending not to see</em> Béline). Ah heavens! Ah! what a misfortune! What a strange accident!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. What is the matter, Toinette?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Ah! Madam!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. What ails you?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Your husband is dead."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. My husband is dead?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Alas! yes; the poor soul is gone."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Are you quite certain?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Quite certain. Nobody knows of it yet. I was all alone here when it happened. He has just breathed his last in my arms. Here, just look at him, full-length in his chair."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Heaven be praised. I am delivered from a most grievous burden. How silly of you, Toinette, to be so afflicted at his death."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Ah! Ma'am, I thought I ought to cry."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Pooh! it is not worth the trouble. What loss is it to anybody, and what good did he do in this world? A wretch, unpleasant to everybody; of nauseous, dirty habits; always a clyster or a dose of physic in his body. Always snivelling, coughing, spitting; a stupid, tedious, ill-natured fellow, who was for ever fatiguing people and scolding night and day at his maids and servants."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. An excellent funeral oration!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Toinette, you must help me to carry out my design; and you may depend upon it that I will make it worth your while if you serve me. Since, by good luck, nobody is aware of his death, let us put him into his bed, and keep the secret until I have done what I want. There are some papers and some money I must possess myself of. It is not right that I should have passed the best years of my life with him without any kind of advantage. Come along, Toinette, first of all, let us take all the keys."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. (<em>getting up hastily</em>). Softly."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bel. Ah!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. So, my wife, it is thus you love me?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Ah! the dead man is not dead."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. (<em>to</em> Béline, <em>who goes away</em> I am very glad to see how you love me, and to have heard the noble panegyric you made upon me. This is a good warning, which will make me wise for the future, and prevent me from doing many things. )"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Xix."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——BÉRALDE (<em>coming out of the place where he was hiding</em>), ARGAN, TOINETTE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. Well, brother, you see…."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Now, really, I could never have believed such a thing. But I hear your daughter coming, place yourself as you were just now, and let us see how she will receive the news. It is not a bad thing to try; and since you have begun, you will be able by this means to know the sentiments of your family towards you."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Xx."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ARGAN, ANGÉLIQUE, TOINETTE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. (<em>pretending not to see</em> Angélique). O heavens! what a sad accident! What an unhappy day!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. What ails you, Toinette, and why do you cry?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Alas! I have such sad news for you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. What is it?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Your father is dead."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. My father is dead, Toinette?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Yes, just look at him there; he died only a moment ago of a fainting fit that came over him."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. O heavens! what a misfortune! What a cruel grief! Alas! why must I lose my father, the only being left me in the world? and why should I lose him, too, at a time when he was angry with me? What will become of me, unhappy girl that I am? What consolation can I find after so great a loss?"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Xxi."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ARGAN, ANGÉLIQUE, CLÉANTE, TOINETTE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. What is the matter with you, dear Angélique, and what misfortune makes you weep?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Alas! I weep for what was most dear and most precious to me. I weep for the death of my father."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. O heaven! what a misfortune! What an unforeseen stroke of fortune! Alas! after I had asked your uncle to ask you in marriage, I was coming to see him, in order to try by my respect and entreaties to incline his heart to grant you to my wishes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Ah! Cléante, let us talk no more of this. Let us give up all hopes of marriage. Now my father is dead, I will have nothing to do with the world, and will renounce it for ever. Yes, my dear father, if I resisted your will, I will at least follow out one of your intentions, and will by that make amends for the sorrow I have caused you. (<em>Kneeling.</em> Let me, father, make you this promise here, and kiss you as a proof of my repentance. )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. (<em>kissing</em> Angélique). Ah! my daughter!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Ah!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Come; do not be afraid. I am not dead. Ah! you are my true flesh and blood and my real daughter; I am delighted to have discovered your good heart."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Xxii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——ARGAN, BÉRALDE, ANGÉLIQUE, CLÉANTE, TOINETTE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Ah! what a delightful surprise! Father, since heaven has given you back to our love, let me here throw myself at your feet to implore one favour of you. If you do not approve of what my heart feels, if you refuse to give me Cléante for a husband, I conjure you, at least, not to force me to marry another. It is all I have to ask of you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. (<em>throwing himself at</em> Argan's <em>feet</em>). Ah! Sir, allow your heart to be touched by her entreaties and by mine, and do not oppose our mutual love."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. Brother, how can you resist all this?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Will you remain insensible before such affection?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Well, let him become a doctor, and I will consent to the marriage. (<em>To</em> Cléante Yes, turn doctor, Sir, and I will give you my daughter. )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Very willingly, Sir, if it is all that is required to become your son-in-law. I will turn doctor; apothecary also, if you like. It is not such a difficult thing after all, and I would do much more to obtain from you the fair Angélique."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. But, brother, it just strikes me; why don't you turn doctor yourself? It would be much more convenient to have all you want within yourself."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Quite true. That is the very way to cure yourself. There is no disease bold enough to dare to attack the person of a doctor."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. I imagine, brother, that you are laughing at me. Can I study at my age?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. Study! What need is there? You are clever enough for that; there are a great many who are not a bit more clever than you are."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. But one must be able to speak Latin well, and know the different diseases and the remedies they require."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. When you put on the cap and gown of a doctor, all that will come of itself, and you will afterwards be much more clever than you care to be."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. What! We understand how to discourse upon diseases when we have that dress?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. Yes; you have only to hold forth; when you have a cap and gown, any stuff becomes learned, and all rubbish good sense."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. Look you, Sir; a beard is something in itself; a beard is half the doctor."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. Anyhow, I am ready for everything."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. (<em>to</em> Argan). Shall we have the thing done immediately?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. How, immediately?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. Yes, in your house."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. In my house?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. Yes, I know a body of physicians, friends of mine, who will come presently, and will perform the ceremony in your hall. It will cost you nothing."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. But what can I say, what can I answer?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. You will be instructed in a few words, and they will give you in writing all you have to say. Go and dress yourself directly, and I will send for them."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Arg. Very well; let it be done."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene Xxiii."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>——BÉRALDE, ANGÉLIQUE, CLÉANTE.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. What is it yon intend to do, and what do you mean by this body of physicians?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toi. What is it you are going to do?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. To amuse ourselves a little to-night. The players have made a doctor's admission the subject of an interlude, with dances and music. I want everyone to enjoy it, and my brother to act the principal part in it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. But, uncle, it seems to me that you are making fun of my father."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ber. But, niece, it is not making too much fun of him to fall in with his fancies. We may each of us take part in it ourselves, and thus perform the comedy for each other's amusement. Carnival time authorises it. Let us go quickly and get everything ready."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cle. (<em>to</em> Angélique). Do you consent to it?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ang. Yes; since my uncle takes the lead."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Third Interlude."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Burlesque Ceremony <em>representing the Admission of</em> Mr. Geronte <em>to the Degree of Doctor of Medicine</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<em>First Entry of the</em> Ballet."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "PRAESES.<br>Savantissimi doctores,<br>Medicinae professores,<br>Qui hic assemblati estis;<br>Et vos, altri messiores,<br>Sententiarum Facultatis<br>Fideles executores,<br>Chirurgiani et apothicari<br>Atque tota compagnia aussi,<br>Salus, honor et argentum,<br>Atque bonum appetitum."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Non possum, docti confreri,<br>En moi satis admirari<br>Qualis bona inventio<br>Est medici professio;<br>Quam bella chosa est et bene trovata.<br>Medicina illa benedicta,<br>Quae, suo nomine solo,<br>Surprenanti miraculo,<br>Depuis si longo tempore,<br>Facit à gogo vivere<br>Tant de gens omni genere."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Per totam terram videmus<br>Grandam vogam ubi sumus;<br>Et quod grandes et petiti<br>Sunt de nobis infatuti.<br>Totus mundus, currens ad nostros remedios,<br>Nos regardat sicut deos;<br>Et nostris ordonnanciis<br>Principes et reges soumissos videtis."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Doncque il est nostrae sapientiae,<br>Boni sensus atque prudentiae,<br>De fortement travaillare<br>A nos bene conservare<br>In tali credito, voga, et honore;<br>Et prendere gardam a non recevere<br>In nostro docto corpore,<br>Quam personas capabiles,<br>Et totas dignas remplire<br>Has plaças honorabiles."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "C'est pour cela que nunc convocati estis:<br>Et credo quod trovabitis<br>Dignam matieram medici<br>In savanti homine que voici;<br>Lequel, in chosis omnibus,<br>Dono ad interrogandum,<br>Et à fond examinandum<br>Vostris capacitatibus."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "PRIMUS DOCTOR.<br>Si mihi licentiam dat dominus praeses,<br>Et tanti docti doctores,<br>Et assistantes illustres,<br>Très savanti bacheliero,<br>Quem estimo et honoro,<br>Domandabo causam et rationom quare<br>Opium facit dormire."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "BACHELIERUS.<br>Mihi a docto doctore<br>Domandatur causam et rationem quare<br>Opium facit dormire.<br>A quoi respondeo,<br>Quia est in eo<br>Vertus dormitiva,<br>Cujus eat natura<br>Sensus assoupire."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CHORUS.<br>Bene, bene, bene, bene respondere.<br>Dignus, dignus est intrare<br>In nostro docto corpore.<br>Bene, bene respondere."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "SECUNDUS DOCTOR.<br>Proviso quod non displiceat,<br>Domino praesidi, lequel n'est pas fat,<br>Me benigne annuat,<br>Cum totis doctoribus savantibus,<br>Et assistantibus bienveillantibus,<br>Dicat mihi un peu dominus praetendens,<br>Raison a priori et evidens<br>Cur rhubarba et le séné<br>Per nos semper est ordonné<br>Ad purgandum l'utramque bile?<br>Si dicit hoc, erit valde habile."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "BACHELIERUS.<br>A docto doctore mihi, qui sum praetendens,<br>Domandatur raison a priori et evidens<br>Cur rhubarba et le séné<br>Per nos semper est ordonné<br>Ad purgandum l'utramque bile?<br>Respondeo vobis,<br>Quia est in illis<br>Vertus purgativa,<br>Cujus est natura<br>Istas duas biles evacuare."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CHORUS.<br>Bene, bene, bone, bene respondere,<br>Dignus, dignus est intrare<br>In nostro docto corpore."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "TERTIUS DOCTOR.<br>Ex responsis, il paraît jam sole clarius<br>Quod lepidum iste caput bachelierus<br>Non passavit suam vitam ludendo au trictrac,<br>Nec in prenando du tabac;<br>Sed explicit pourquoi furfur macrum et parvum lac,<br>Cum phlebotomia et purgatione humorum,<br>Appellantur a medisantibus idolae medicorum,<br>Nec non pontus asinorum?<br>Si premièrement grata sit domino praesidi<br>Nostra libertas quaestionandi,<br>Pariter dominis doctribus<br>Atque de tous ordres benignis auditoribus."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "BACHELIERUS.<br>Quaerit a me dominus doctor<br>Chrysologos, id est, qui dit d'or,<br>Quare parvum lac et furfur macrum,<br>Phlebotomia et purgatio humorum<br>Appellantur a medisantibus idolae medicorum,<br>Atque pontus asinorum.<br>Respondeo quia:<br>Ista ordonnando non requiritur magna scientia,<br>Et ex illis quatuor rebus<br>Medici faciunt ludovicos, pistolas, et des quarts d'écus."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CHORUS.<br>Bene, bene, bene, bene respondere<br>Dignus, dignus est intrare<br>In nostro docto corpore."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "QUARTUS DOCTOR.<br>Cum permissione domini praesidis,<br>Doctissimae Facultatis,<br>Et totius his nostris actis<br>Companiae assistantis,<br>Domandabo tibi, docte bacheliere,<br>Quae sunt remedia<br>Tam in homine quam in muliere<br>Quae, in maladia<br>Ditta hydropisia,<br>In malo caduco, apoplexia, convulsione et paralysia,<br>Convenit facere."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "BACHELIERUS.<br>Clysterium donare,<br>Postea seignare,<br>Ensuita purgare."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CHORUS.<br>Bene, bene, bene, bene respondere.<br>Dignus, dignus est intrare<br>In nostro docto corpore."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "QUINTUS DOCTOR.<br>Si bonum semblatur domino praesidi.<br>Doctissimae Facultati,<br>Et companiae ecoutanti,<br>Domandabo tibi, erudite bacheliere,<br>Ut revenir un jour à la maison gravis aegre<br>Quae remedia colicosis, fievrosis,<br>Maniacis, nefreticis, freneticis,<br>Melancolicis, demoniacis,<br>Asthmaticis atque pulmonicis,<br>Catharrosis, tussicolisis,<br>Guttosis, ladris atque gallosis,<br>In apostemasis plagis et ulcéré,<br>In omni membro démis aut fracturé<br>Convenit facere."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "BACHELIERUS.<br>Clysterium donare,<br>Postea seignare,<br>Ensuita purgare."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CHORUS.<br>Bene, bene, bene, bene respondere.<br>Dignus, dignus est intrare<br>In nostro docto corpore."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "SEXTUS DOCTOR.<br>Cum bona venia reverendi praesidis,<br>Filiorum Hippocratis,<br>Et totius coronae nos admirantis,<br>Petam tibi, resolute bacheliere,<br>Non indignus alumnus di Monspeliere,<br>Quae remedia caecis, surdis, mutis,<br>Manchotis, claudis, atque omnibus estropiatis,<br>Pro coris pedum, malum de dentibus, pesta, rabie,<br>Et nimis magna commotione in omni novo marié<br>Convenit facere."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "BACHELIERUS.<br>Clysterium donare,<br>Postea seignare,<br>Ensuita purgare."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CHORUS.<br>Bene, bene, bene, bene respondere.<br>Dignus, dignus est intrare<br>In nostro docto corpore."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "SEPTIMUS DOCTOR.<br>Super illas maladias,<br>Dominus bachelierus dixit maravillas;<br>Mais, si non ennuyo doctissimam facultatem<br>Et totam honorabilem companiam<br>Tam corporaliter quam mentaliter hic praesentem,<br>Faciam illi unam quaestionem;<br>De hiero maladus unus<br>Tombavit in meas manus,<br>Homo qualitatis et dives comme un Crésus.<br>Habet grandam fievram cum redoublamentis,<br>Grandam dolorem capitis,<br>Cum troublatione spirii et laxamento ventris.<br>Grandum insuper malum au côté,<br>Cum granda difficultate<br>Et pena a respirare;<br>Veuillas mihi dire,<br>Docte bacheliere,<br>Quid illi facere."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "BACHELIERUS.<br>Clysterium donare,<br>Postea seignare,<br>Ensuita purgare."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CHORUS.<br>Bene, bene, bene, bene respondere.<br>Dignus, dignus est intrare<br>In nostro docto corpore."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "IDEM DOCTOR.<br>Mais, si maladia<br>Opiniatria<br>Ponendo modicum a quia<br>Non vult se guarire,<br>Quid illi facere?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "BACHELIERUS.<br>Clysterium donare,<br>Postea seignare,<br>Ensuita purgare,<br>Reseignare, repurgare, et reclysterizare."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CHORUS.<br>Bene, bene, bene, bene respondere.<br>Dignus, dignus est intrare<br>In nostro docto corpore."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OCTAVUS DOCTOR.<br>Impetro favorabile congé<br>A domino praeside,<br>Ab electa trouppa doctorum,<br>Tam practicantium quam practica avidorum,<br>Et a curiosa turba badodorum.<br>Ingeniose bacheliere<br>Qui non potuit esse jusqu'ici déferré,<br>Faciam tibi unam questionem de importantia.<br>Messiores, detur nobis audiencia.<br>Isto die bene mane,<br>Paulo ante mon déjeuné,<br>Venit ad me una domicella<br>Italiana jadis bella,<br>Et ut penso encore un peu pucella,<br>Quae habebat pallidos colores,<br>Fievram blancam dicunt magis fini doctores,<br>Quia plaigniebat se de migraina,<br>De curta halena,<br>De granda oppressione,<br>Jambarum enflatura, et effroyebili lassitudine;<br>De batimento cordis,<br>De strangulamento matris,<br>Alio nomine vapor hystérique,<br>Quae, sicut omnes maladiae terminatae en ique,<br>Facit a Galien la nique.<br>Visagium apparebat bouffietum, et coloris<br>Tantum vertae quantum merda anseris.<br>Ex pulsu petito valde frequens, et urina mala<br>Quam apportaverat in fiola<br>Non videbatur exempta de febricules;<br>Au reste, tam debilis quod venerat<br>De son grabat<br>In cavallo sur une mule,<br>Non habuerat menses suos<br>Ab illa die qui dicitur des grosses eaux;<br>Sed contabat mihi à l'oreille<br>Che si non era morta, c'était grand merveille,<br>Perchè in suo negotio<br>Era un poco d'amore, et troppo di cordoglio;<br>Che suo galanto sen era andato in Allemagna,<br>Servire al signor Brandeburg una campagna.<br>Usque ad maintenant multi charlatani,<br>Medici, apothicari, et chirurgiani<br>Pro sua maladia in veno travaillaverunt,<br>Juxta même las novas gripas istius bouru Van Helmont,<br>Amploiantes ab oculis cancri, ad Alcahest;<br>Veuillas mihi dire quid superest,<br>Juxta orthodoxos, illi facere."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "BACHELIERUS.<br>Clysterium donare,<br>Postea seignare,<br>Ensuita purgare."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CHORUS.<br>Bene, bene, bene, bene respondero.<br>Dignus, dignus est intrare<br>In nostro docto corpore."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "IDEM DOCTOR.<br>Mais si tam grandum couchamentum<br>Partium naturalium,<br>Mortaliter obstinatum,<br>Per clysterium donare,<br>Seignare<br>Et reiterando cent fois purgare,<br>Non potest se guarire,<br>Finaliter quid trovaris à propos illi facere?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "BACHELIERUS.<br>In nomine Hippocratis benedictam cum bono<br>Garçone conjunctionem imperare."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "PRAESES.<br>Juras gardare statuta<br>Per Facultatem praescripta,<br>Cum sensu et jugeamento?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "BACHELIERUS.<br>Juro."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "PRAESES.<br>Essere in Omnibus<br>Consultationibus<br>Ancieni aviso,<br>Aut bono,<br>Aut mauvaiso!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "BACHELIERUS.<br>Juro."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "PRAESES.<br>De non jamais te servire<br>De remediis aucunis,<br>Quam de ceuz seulement almae Facultatis,<br>Maladus dût-il crevare,<br>Et mori de suo malo?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "BACHELIERUS.<br>Juro."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "PRAESES.<br>Ego, cum isto boneto<br>Venerabili et docto,<br>Dono tibi et concedo<br>Puissanciam, vertutem atque licentiam<br>Medicinam cum methodo faciendi<br>Id est,<br>Clysterizandi,<br>Seignandi,<br>Purgandi,<br>Sangsuandi,<br>Ventousandi,<br>Sacrificandi,<br>Perçandi,<br>Taillandi,<br>Coupandi,<br>Trepanandi,<br>Brulandi,<br>Uno verbo, selon les formes, atque impune occidendi<br>Parisiis et per totem terram;<br>Rendes, Domine, his messioribus gratiam."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<em>Second Entry of the</em> Ballet."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<em>All the</em> Doctors <em>and</em> Apothecaries <em>come and do him reverence.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "BACHELIERUS.<br>Grandes doctres doctrinae<br>De la rhubarbe et du séné<br>Ce seroit sans douta à moi chosa folla,<br>Inepta et ridicula,<br>Si j'alloibam m'engageare<br>Vobis louangeas donare,<br>Et entreprenoibam ajoutare<br>Des lumieras au soleillo,<br>Des etoilas au cielo,<br>Des flammas à l'inferno<br>Des ondas à l'oceano,<br>Et des rosas au printano.<br>Agreate qu'avec uno moto,<br>Pro toto remercimento,<br>Rendam gratias corpori tam docto.<br>Vobis, vobis debeo<br>Bien plus qu'à nature et qu'à patri meo:<br>Natura et pater meus<br>Hominem me habent factum;<br>Mais vos me (ce qui est bien plus )"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Avetis factum medicum<br>Honor, favor et gratia,<br>Qui, in hoc corde que voilà,<br>Imprimant ressentimenta<br>Qui dureront in secula."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CHORUS.<br>Vivat, vivat, vivat, vivat, cent fois vivat,<br>Novus doctor, qui tam bene parlat!  \nMille, mille annis, et manget et bibat,<br>Et seignet et tuat!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<em>Third Entry of the</em> Ballet."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<em>All the</em> Doctors <em>and</em> Apothecaries <em>dance to the sound of instruments and voices, the clapping of hands, and the beating of</em> Apothecaries' <em>mortars.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CHIRURGUS.<br>Puisse-t-il voir doctas<br>Suas ordonnancias,<br>Omnium chirurgorum,<br>Et apothicarum<br>Remplire boutiquas!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CHORUS.<br>Vivat, vivat, vivat, vivat, cent fois vivat,<br>Novus doctor, qui tam bene parlat!  \nMille, mille annis, et manget et bibat,<br>Et seignet et tuat!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "APOTHICARIUS.<br>Puissent toti anni<br>Lui essere boni<br>Et favorabiles<br>Et n'habere jamais<br>Entre ses mains, pestas, epidemias<br>Quae sunt malas bestias;<br>Mais semper pluresias, pulmonias<br>In renibus et vessia pierras,<br>Rhumatismos d'un anno, et omnis generis fievras,<br>Fluxus de sanguine, gouttas diabolicas,<br>Mala de sancto Joanne, Poitevinorum colicas<br>Scorbutum de Hollandia, verolas parvas et grossas<br>Bonos chancros atque longas callidopissas."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "BACHELIERUS.<br>Amen."
+  },
+  {
+    "tag": "h6",
+    "innerHtml": "Chorus."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>Vivat, vivat, vivat, vivat, cent fois vivat,<br>Novus doctor, qui tam bene parlat!  \nMille, mille annis, et manget et bibat,<br>Et seignet et tuat!\n<em>Fourth Entry of the</em> Ballet.</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<em>All the</em> Doctors <em>and</em> Apothecaries <em>go out according to their rank, as they came in.</em>"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Footnotes"
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>As usual, Argan only counts half; even after he has reduced the charge.\nThomas Diafoirus is evidently going to base some compliment on the <em>belle-mère</em>. The only way out of the difficulty in English seems to be to complete the sentence somewhat.\nHarvey's treatise on the circulation of the blood was published in 1628. His discovery was violently opposed for a long time afterwards.\nMolière seems to refer to Dr. Guenaut, who was said to have killed with antimony (his favourite remedy his wife, his daughter, his nephew, and two of his sons-in-law.—AIMÉ MARTIN. ) </p>"
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p><em>Oubliés</em>; now called <em>plaisirs</em>. \"Wafers\" would perhaps have been the right rendering in Molière's time.\nThis piece is composed of a mixture of dog-Latin, French, &c. and is utterly untranslateable.\nIt is said that it was when uttering this word that Molière gave way to the illness from which he had long suffered.</p>"
+  }
+]
